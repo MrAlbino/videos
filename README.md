@@ -1,4 +1,4 @@
 # videos
-Youtube videolarımdaki kodların bulunduğu repository.
+This repo contains all of the source files to the videos on my youtube channel!
 
 www.youtube.com/ayberkkose
